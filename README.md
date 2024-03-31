@@ -76,4 +76,4 @@ python main.py --mode=train --device_ids=0 \
 ### Train STAR Model With Distilation
 `FaceLandmarkDetection/STAR/conf/alignment.py`
 * self.distill = True
-
+* and some teacher model args ...
