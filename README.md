@@ -4,6 +4,7 @@
 base on: https://github.com/ZhenglinZhou/STAR
 
 ## Source Code Structure
+```
 |-- FaceLandmarkDetection
   |-- Datasets
     |-- annotations
@@ -23,7 +24,7 @@ base on: https://github.com/ZhenglinZhou/STAR
     | yolo.tflite
   |-- Models // several trained STAR models
   |-- STAR // github repo
-  
+```
 
 ## Environment
 ### Docker
